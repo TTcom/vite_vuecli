@@ -1,5 +1,10 @@
 # vite_vuecli
-
+## how add vite 
+```
+# 1. first step
+vue add vite
+yarn vite
+```
 ## Project setup
 ```
 npm install
